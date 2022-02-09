@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Reward Points Log</string>
+
+    <string-array name="name">
+        <item>aman</item>
+        <item>aryan</item>
+        <item>subham</item>
+        <item>suraj</item>
+        <item>raj</item>
+        <item>priya</item>
+        <item>surbhi</item>
+        <item>somya</item>
+        <item>soniya</item>
+        <item>gajadhar</item>
+        <item>sailja</item>
+        <item>abhinav</item>
+        <item>abhishek</item>
+        <item>akash</item>
+        <item>OmRanjan</item>
+        <item>Megha</item>
+        <item>Saima</item>
+        <item>sonali</item>
+        <item>Rohan</item>
+        <item>Saurabh</item>
+        <item>Aamir</item>
+        <item>Sandeep</item>
+        <item>Qamar</item>
+        <item>Raju</item>
+    </string-array>
+
+</resources>
